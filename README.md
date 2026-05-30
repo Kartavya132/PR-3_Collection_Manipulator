@@ -1,4 +1,4 @@
-# 🎓 Student Data Organizer
+# 🎓 Student Data Organizer / Collector Manipulator
 
 A simple **Python-based Student Management System** that allows users to manage student records through a menu-driven interface.
 
